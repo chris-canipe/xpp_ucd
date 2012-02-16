@@ -1,4 +1,3 @@
-#!/usr/local/bin/perl
 use warnings;
 use strict;
 use File::Find::Rule;
